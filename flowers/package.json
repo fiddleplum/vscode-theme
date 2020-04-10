@@ -1,0 +1,22 @@
+{
+	"name": "flowers",
+	"publisher": "fiddleplum",
+    "displayName": "flowers",
+    "description": "A light theme with vibrant colors like flowers.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flowers",
+                "uiTheme": "vs",
+                "path": "./themes/Flowers-color-theme.json"
+            }
+        ]
+    }
+}
