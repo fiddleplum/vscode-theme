@@ -9,7 +9,10 @@
     },
     "categories": [
         "Themes"
-    ],
+	],
+	"repository": {
+		"url": "git@github.com:fiddleplum/vscode-theme.git"
+	},
     "contributes": {
         "themes": [
             {
